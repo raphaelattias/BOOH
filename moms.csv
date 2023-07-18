@@ -1,0 +1,139 @@
+OutofHospital,level_1,Age,MaritalStatus,Ethnicity,Race,PrimaryLanguage,TranslationService,PCPonFile,InsuranceCoverage,SubstanceUse,Education,Employment,PrenatalCareHistory,MaternalPathologies,PregnancyComplications,Parity,PregnancyComplicationsCount
+1,0,34,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,unemployed,"Yes, unknown number of visits",O13.9,1,2,2
+1,1,29,married,not hispanic/latino,Black/African American,Urdu,none,yes,Medicaid/Medicare,none,none listed,unemployed,"Yes, unknown number of visits",E66.9,0,4,0
+1,2,30,unmarried,hispanic/latino,Other,Spanish,yes,yes,none,none,none listed,unemployed,8,"J45, E11.9, I10",0,3,0
+1,3,19,unmarried,hispanic/latino,Other,English,none,yes,Other,none,none listed,unemployed,13,"O26.613, K83.1, A74.9, O09.899, Z28.39, O99.019",0,0,0
+1,4,24,unmarried,hispanic/latino,Other,English,none,none,Medicaid/Medicare,none,none listed,unemployed,9,"O23.40, Z86.50, E66.9",1,1,1
+1,5,25,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,unemployed,10,"E66.9, K80.20",0,1,0
+1,6,29,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,"F19.10, O99.330",none listed,unemployed,0,"G40.909, J45, Z98.891",0,1,0
+1,7,35,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,"Yes, unknown number of visits","J45, Z86.711, F32.A, E66.9",0,3,0
+1,8,20,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,none listed,unemployed,11,R76.11,1,0,3
+1,9,36,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,unemployed,4,N39.0,1,8,3
+1,10,30,unmarried,not hispanic/latino,Black/African American,English,none,none,none,none,none listed,employed,0,0,0,2,0
+1,11,22,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,none listed,unemployed,6,E66.9,0,0,0
+1,12,24,unmarried,hispanic/latino,Other,English,none,none,Medicaid/Medicare,none,none listed,unemployed,10,J45,1,0,1
+1,13,35,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,none listed,employed,17,"E66.01, J45, D21.9, D50.8",1,2,1
+1,14,27,unmarried,hispanic/latino,Other,English,none,none,Medicaid/Medicare,none,none listed,unemployed,4,"J45, O24.419, E66.01",1,1,1
+1,15,27,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,none listed,unemployed,11,"J45, Z86.69, D50.8",1,1,3
+1,16,22,unmarried,hispanic/latino,Other,Spanish,none,none,Medicaid/Medicare,none,none listed,unemployed,11,"E66.01, J45",0,2,0
+1,17,22,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,F12.9,none listed,unemployed,7,"O13.9, E66.01, T74.91",1,1,2
+1,18,19,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,unemployed,6,0,1,0,1
+1,19,44,unmarried,not hispanic/latino,Other,Portugese,none,none,none,none,none listed,unemployed,14,"D21.9, E66.09",1,0,3
+1,20,30,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,unemployed,10,E66.01,1,1,1
+1,21,26,married,not hispanic/latino,American Indian,English,none,none,Medicaid/Medicare,none,none listed,unemployed,3,0,1,0,2
+1,22,16,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,11,J45,1,0,1
+1,23,23,married,not hispanic/latino,Asian,Bengali,yes,none,Medicaid/Medicare,none,none listed,unemployed,12,"O24.409, E66.01, Z82.79",1,1,1
+1,24,20,married,hispanic/latino,Other,Spanish,none,yes,Medicaid/Medicare,none,none listed,unemployed,7,"O23.40, O99.019",0,2,0
+1,25,33,unmarried,hispanic/latino,Other,Spanish,none,none,Other,none,none listed,not listed,8,O09.33,0,4,0
+1,26,26,unmarried,hispanic/latino,Other,English,none,none,Medicaid/Medicare,none,none listed,not listed,2,"J45.909, I10, J45.20",1,3,1
+1,27,29,married,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,employed,6,"O09.30, R39.9",1,2,1
+1,28,34,unmarried,hispanic/latino,Other,Spanish,none,none,Medicaid/Medicare,none,high school graduate,not listed,7,0,0,4,0
+1,29,30,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,none listed,not listed,2,"O09.299, D64.9",1,4,2
+1,30,35,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,not listed,7,E66.9,0,3,0
+1,31,25,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,less than high school,unemployed,9,"O36.0920, D64.9",1,4,1
+1,32,21,unmarried,hispanic/latino,Other,English,none,yes,none,none,high school graduate,unemployed,9,0,1,1,1
+1,33,19,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,11,"O09.899, O09.899, D50.9",0,2,0
+1,34,28,unmarried,hispanic/latino,Other,Spanish,yes,yes,Medicaid/Medicare,none,less than high school,not listed,9,"E03.9, O99.012, O99.013, K03.89, R63.6",0,3,0
+1,35,24,married,hispanic/latino,Other,Spanish,yes,none,Other,none,high school graduate,employed,8,"L73.2, D50, E66.0",0,1,0
+1,36,15,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,not listed,6,"J45.909, O09.891, J45.909",0,1,0
+1,37,23,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,none listed,not listed,8,"R76.12, O23.40",1,1,1
+1,38,29,married,not hispanic/latino,Other,Spanish,yes,none,none,none,Bachelor and above,unemployed,5,0,0,3,0
+1,39,22,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,high school graduate,unemployed,4,0,1,2,1
+1,40,37,unmarried,hispanic/latino,Other,Portugese,yes,none,Medicaid/Medicare,none,none listed,not listed,7,"Z15.01, C50.919, C50.911",1,2,1
+1,41,38,unmarried,hispanic/latino,Other,Spanish,none,none,Medicaid/Medicare,none,none listed,unemployed,5,"N85.A, R91.8",1,3,1
+1,42,28,unmarried,hispanic/latino,Other,English,none,none,Medicaid/Medicare,none,none listed,not listed,7,"I10, I47.1",0,2,0
+1,43,28,married,not hispanic/latino,Black/African American,Haitian Creole,yes,none,none,none,none listed,not listed,0,0,0,0,0
+1,44,25,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,none listed,unemployed,7,"O09.899 , Z22.7, O09.299",1,1,4
+1,45,29,married,not hispanic/latino,Black/African American,French Creole,yes,none,Medicaid/Medicare,none,high school graduate,unemployed,3,Z98.891,1,2,1
+1,46,26,married,not hispanic/latino,Black/African American,Haitian Creole,yes,none,Medicaid/Medicare,none,less than high school,unemployed,4,"D64.9, R87.620",1,1,1
+1,47,20,unmarried,hispanic/latino,Other,English,none,yes,Medicaid/Medicare,none,high school graduate,unemployed,8,"J45.909, Z20.2",1,1,3
+1,48,23,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,F10.10,none listed,employed,8,E66.3 E11,1,1,1
+1,49,25,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,none listed,employed,1,D69.6,1,1,1
+1,50,33,married,not hispanic/latino,Black/African American,French,none,none,none,none,high school graduate,unemployed,10,A53.9 D57.3,1,1,1
+1,51,35,married,hispanic/latino,Other,English,none,none,Other,none,Bachelor and above,employed,12,M06.9 Z86.19,1,1,1
+1,52,25,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,less than high school,not listed,1,A74.9 E66,1,5,1
+1,53,30,married,hispanic/latino,Other,Spanish,none,none,none,none,less than high school,unemployed,2,0,1,1,1
+1,54,22,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,some college,unemployed,9,E66.9,1,1,1
+1,55,27,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,high school graduate,employed,8,0,1,2,1
+1,56,20,unmarried,not hispanic/latino,Black/African American,English,none,none,none,none,high school graduate,unemployed,4,I10,1,3,1
+1,57,43,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,high school graduate,not listed,7,0,1,4,1
+1,58,35,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,none listed,employed,0,0,1,3,1
+1,59,22,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,unemployed,9,E66.3 D50 Z91.410 B37.31 N39.0,1,2,1
+1,60,21,unmarried,hispanic/latino,Other,Portuguese,yes,none,Medicaid/Medicare,none,high school graduate,employed,11,R33.9,1,1,1
+1,61,37,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,none listed,not listed,0,I10 J45.909,1,6,1
+1,62,24,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,unemployed,5,F41.1 D64.9,1,3,1
+1,63,18,unmarried,hispanic/latino,Other,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,10,Z86.19 R55 R56.9 J45.909,1,0,1
+1,64,34,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,less than high school,unemployed,8,A15.9 E66.0,1,3,1
+1,65,20,unmarried,hispanic/latino,Other,English,none,yes,none,none,high school graduate,employed,5,F41.1  ,1,3,1
+1,66,26,unmarried,hispanic/latino,Other,Portuguese,yes,none,none,none,none listed,not listed,9,0,1,2,1
+1,67,33,unmarried,hispanic/latino,Other,Spanish,yes,yes,none,none,none listed,not listed,13,D69.6 A60.9 D44.8,1,1,1
+1,68,38,married,hispanic/latino,Other,Spanish,none,none,Other,none,less than high school,employed,7,E66.0 ,1,4,1
+1,69,33,married,hispanic/latino,Other,Portuguese,yes,none,none,none,Bachelor and above,employed,11,R32 Z87.42 R20.0 E66.9,0,0,0
+1,70,34,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,unemployed,6,E66.3  ,1,6,1
+1,71,44,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,not listed,0,E66.2,1,5,1
+0,0,22,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,none listed,employed,"Yes, unknown number of visits","J45, D56.1, Z20.4",0,1,0
+0,1,26,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,none listed,unemployed,7,"O13, O14.2, O23.40",1,2,4
+0,2,36,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,employed,3,"R87.620, R87.811, O09.299, D25.9, E66.9",1,2,2
+0,3,16,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,less than high school,unemployed,0,0,1,0,1
+0,4,35,married,not hispanic/latino,Black/African American,English,none,none,Other,none,none listed,employed,"Yes, unknown number of visits","D25.9, A60.00 ",1,0,1
+0,5,26,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,2,J45,1,1,1
+0,6,30,married,not hispanic/latino,Caucasian/White,English,none,none,Other,none,none listed,employed,"Yes, unknown number of visits","B06.9, Z67.91",0,1,0
+0,7,32,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,F10,none listed,unemployed,4,"E66.9, N83.20",1,3,2
+0,8,33,unmarried,not hispanic/latino,Black/African American,Haitian Creole,yes,yes,Medicaid/Medicare,none,none listed,unemployed,3,"Z22.7, Z13.32",1,3,2
+0,9,28,married,hispanic/latino,Other,English,none,none,Other,none,none listed,unemployed,"Yes, unknown number of visits",0,1,2,1
+0,10,26,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,unemployed,0,"E66.9, E87.6",1,2,5
+0,11,16,unmarried,hispanic/latino,Other,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,0,"E66.9, D64.9, R04.0, ",1,0,3
+0,12,31,unmarried,not hispanic/latino,Black/African American,English,none,none,Other,none,none listed,employed,"Yes, unknown number of visits","E66.9, I10",0,1,0
+0,13,26,unmarried,hispanic/latino,Other,Spanish,yes,none,Medicaid/Medicare,none,none listed,unemployed,0,0,1,0,2
+0,14,27,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,none listed,unemployed,"Yes, unknown number of visits",0,1,5,1
+0,15,22,unmarried,hispanic/latino,Other,English,none,yes,Medicaid/Medicare,F19.90,none listed,unemployed,0,A53.9,1,3,2
+0,16,34,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,not listed,7,0,1,4,2
+0,17,40,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,F19.90,less than high school,employed,9,"R87.613, R87.810",1,4,2
+0,18,23,unmarried,hispanic/latino,Other,Spanish,none,none,Medicaid/Medicare,none,none listed,unemployed,0,"R87.612, Z98.891",0,3,0
+0,19,27,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,F19.90,Bachelor and above,unemployed,4,0,1,1,1
+0,20,31,unmarried,not hispanic/latino,Other,Haitian Creole,yes,none,none,none,none listed,unemployed,4,D64.9,1,1,2
+0,21,26,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,employed,unknown,J45.909,0,1,0
+0,22,31,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,unemployed,1,"E66.01, Z87.311, O99.333, O23.43, O09.30, E66.01",0,9,0
+0,23,26,unmarried,not hispanic/latino,Caucasian/White,English,none,none,Medicaid/Medicare,any ICD in ICD chart,some college,unemployed,"Yes, at least 1-2","O13.9, F43.10, F31.9, F25.9, R45.851, F22",0,2,0
+0,24,30,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,7,"O23.40, R78.71, O98.519, O99.810",1,4,2
+0,25,42,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,any ICD in ICD chart,none listed,unemployed,0,"F25.9, F10.10, F20.9, F29, I10, Z59.00, G40.A09, B88.8, O11.9, D50.0",1,2,1
+0,26,16,unmarried,not hispanic/latino,Black/African American,English,none,none,none,any ICD in ICD chart,none listed,not listed,0,"V23.83, P04.81, D50",1,1,1
+0,27,30,unmarried,hispanic/latino,Other,English,none,yes,none,any ICD in ICD chart,high school graduate,not listed,unknown,"O14.90, F19.10",0,1,0
+0,28,24,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,any ICD in ICD chart,none listed,not listed,3,"R01.1, M41.9, O09.899, R87.610, F90.9, M19.90",1,4,1
+0,29,18,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,none listed,not listed,0,"Z78.9, Z34.80",1,1,4
+0,30,26,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,none,none listed,not listed,5,0,1,2,1
+0,31,39,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,any ICD in ICD chart,none listed,unemployed,0,"Z21, F22, F20.9, I10, F19.10, O26.899, D64.9, Z59.81, Z91.410, Z13.32",1,1,2
+0,32,31,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,any ICD in ICD chart,Bachelor and above,unemployed,0,"O23.40, J45.909",1,1,1
+0,33,28,unmarried,not hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,any ICD in ICD chart,less than high school,not listed,0,"F14.20, F19.10, R87.613, A60.09",1,4,1
+0,34,36,unmarried,not hispanic/latino,Black/African American,English,none,none,none,none,high school graduate,not listed,5,"D58.2, R87.810",1,5,4
+0,35,22,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,not listed,7,J45.909,1,2,2
+0,36,24,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,not listed,,"D64.9, Z91.410",1,2,2
+0,37,34,unmarried,hispanic/latino,Black/African American,English,none,none,Medicaid/Medicare,any ICD in ICD chart,none listed,not listed,,F19.10,1,4,1
+0,38,25,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,any ICD in ICD chart,none listed,not listed,8,"O09.899, D50.9, O09.899 ",0,3,0
+0,39,31,married,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,not listed,6,D25.9,1,5,1
+0,40,28,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,not listed,unknown,O24.419,1,6,1
+0,41,21,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,not listed,"unknown, some",0,1,2,1
+0,42,27,unmarried,not hispanic/latino,Black/African American,English,none,none,Other,none,none listed,unemployed,0,0,0,0,0
+0,43,22,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,unemployed,0,0,1,1,1
+0,44,23,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,F11.20,none listed,unemployed,0,D64.9,1,1,1
+0,45,23,unmarried,not hispanic/latino,Black/African American,English,none,yes,none,none,none listed,unemployed,7,E66.9 D69.6,0,2,0
+0,46,21,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,none listed,unemployed,0,0,1,2,1
+0,47,19,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,0,0,0,1,0
+0,48,31,married,not hispanic/latino,Black/African American,English,none,none,Other,none,high school graduate,unemployed,5,E66.3 ,1,4,1
+0,49,22,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,employed,1,E66.3 ,1,2,1
+0,50,20,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,employed,9,D64.9,1,2,1
+0,51,27,unmarried,hispanic/latino,Other,Spanish,yes,none,none,none,less than high school,employed,2,0,1,2,1
+0,52,33,married,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,employed,0,G43.909,0,1,0
+0,53,28,unmarried,hispanic/latino,Other,English,none,yes,Medicaid/Medicare,F19.9,none listed,employed,0,O60.10XO,1,1,1
+0,54,31,married,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,employed,1,0,1,3,1
+0,55,29,married,hispanic/latino,Other,Spanish,yes,yes,none,none,none listed,unemployed,6,0,1,3,1
+0,56,35,married,not hispanic/latino,Asian,Arabic,yes,yes,Medicaid/Medicare,none,Bachelor and above,unemployed,5,0,1,1,1
+0,57,25,married,hispanic/latino,Other,Portuguese,yes,none,Medicaid/Medicare,none,none listed,not listed,0,0,0,3,0
+0,58,24,unmarried,not hispanic/latino,Black/African American,Haitian Creole,yes,none,Medicaid/Medicare,none,high school graduate,unemployed,2,D50.9,0,2,0
+0,59,36,married,not hispanic/latino,Black/African American,English,none,none,Other,none,Bachelor and above,employed,8,D50.9,1,2,1
+0,60,25,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,employed,1,R76.12 H50.15 D27.1,1,2,1
+0,61,36,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,employed,0,0,0,6,0
+0,62,38,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,none listed,unemployed,7,0,1,3,1
+0,63,33,unmarried,not hispanic/latino,Black/African American,English,none,yes,Medicaid/Medicare,none,high school graduate,employed,5,F32.A J45.909 A59.9 ,1,3,1
+0,64,27,married,not hispanic/latino,Asian,Spanish,none,none,none,none,none listed,unemployed,6,H90.2,0,3,0
+0,65,29,unmarried,not hispanic/latino,Black/African American,English,none,none,none,F14.10,none listed,unemployed,0,F259,1,0,1

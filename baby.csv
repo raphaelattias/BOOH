@@ -1,0 +1,139 @@
+OutofHospital,Birth weight,Gestational Age at Birth,APGAR score,Neonatal Survival,Perinatal Survival,Polycythemia,Hypoglycemia,Convulsions,Hypothermic,Bradycardia,Respiratory distress,PPHN,Metabolic/respiratory acidosis,Other,18mo Developmental Delay,18mo pathologies,Metabolic/Respiratory Acidosis
+yes,2290,36.57142857142857,9.0,alive,alive,no,no,no,no,no,no,no,no,SGA,not listed/lost,not listed/lost,
+yes,2400,37.57142857142857,9.0,,,no,no,no,no,no,no,no,no,SGA,not listed/lost,not listed/lost,
+yes,3100,38.42857142857143,,alive,alive,no,no,no,no,no,no,no,no,Perioneal cyanosis,not listed/lost,not listed/lost,
+yes,2610,,7.0,alive,alive,no,no,no,no,no,no,no,no,SGA,none,none,
+yes,3103,39.42857142857143,9.0,,,no,no,no,no,yes,no,no,no,Hyperbilirubinemia,not listed/lost,not listed/lost,
+yes,2215,35.42857142857143,10.0,alive,alive,no,yes,no,no,no,no,no,no,"IUGR, SGA",not listed/lost,not listed/lost,
+yes,3674,40.142857142857146,10.0,alive,,no,no,no,no,no,no,no,no,Murmur,not listed/lost,not listed/lost,
+yes,3055,39,9.0,alive,alive,no,no,no,no,no,no,no,no,0,not listed/lost,not listed/lost,
+yes,2815,37.57142857142857,10.0,alive,alive,no,no,no,no,no,no,no,no,0,none,none,
+yes,3990,40,10.0,,,no,no,no,no,no,no,no,no,LGA,not listed/lost,not listed/lost,
+yes,1500,26.857142857142858,5.0,alive,alive,yes,yes,no,yes,yes,yes,no,yes,"VLBW, Hyperbilirubinemia, hydrocephalus, PFO",not listed/lost,not listed/lost,
+yes,2890,38,,alive,,no,no,no,yes,no,yes,yes,no,"ASD, PFO, PPS",not listed/lost,not listed/lost,
+yes,3275,38.42857142857143,,,,no,no,no,no,no,no,no,no,Murmur,not listed/lost,not listed/lost,
+yes,2693,39.42857142857143,,,,no,no,no,no,no,no,no,no,0,not listed/lost,not listed/lost,
+yes,2850,37.142857142857146,9.0,,,no,no,no,yes,yes,no,no,no,0,not listed/lost,not listed/lost,
+yes,1565,37.42857142857143,8.0,,,no,yes,no,no,no,yes,no,no,Cocaine exposure,not listed/lost,not listed/lost,
+yes,2665,38.42857142857143,,,,no,no,no,no,no,no,no,no,0,not listed/lost,not listed/lost,
+yes,2610,39.285714285714285,,alive,alive,no,no,no,no,no,no,no,no,SGA,none,none,
+yes,3470,40.285714285714285,,,,no,no,no,no,no,no,no,no,0,not listed/lost,not listed/lost,
+yes,2685,36.714285714285715,10.0,alive,,no,no,no,no,no,no,no,no,SGA,not listed/lost,not listed/lost,
+yes,3780,39.57142857142857,8.0,alive,,no,yes,no,no,no,no,no,no,LGA,not listed/lost,not listed/lost,
+yes,3235,38w6d,,alive,alive,no,no,no,no,no,no,no,no,0,not listed/lost,not listed/lost,
+yes,3475,39w5d,,alive,alive,no,no,no,no,no,no,no,no,"maternal substance abuse, SVT",not listed/lost,not listed/lost,
+yes,3030,40w2d,10.0,,,no,no,no,no,no,no,no,no,0,not listed/lost,not listed/lost,
+yes,3405,40w0d,,,,yes,no,no,yes,no,no,no,no,meconium staining,not listed/lost,not listed/lost,
+yes,1440,31w6d,,alive,alive,no,no,no,no,no,yes,no,no,"low birth weight, preterm, SGA, anemia of prematurity",not listed/lost,not listed/lost,
+yes,3155,36w,,alive,alive,yes,no,no,no,no,no,no,no,maternal cannabis use,not listed/lost,not listed/lost,
+yes,2430,37w2d,,alive,,no,no,no,no,no,yes,no,no,"TTN, slow feeding, maternal infectious and parasitic diseases, preeclamptic mother, +cocaine, opiates",not listed/lost,not listed/lost,
+yes,2900,36w6d,,alive,alive,no,yes,no,no,no,no,no,no,premature (36wks),not listed/lost,not listed/lost,
+yes,2560,36,,alive,alive,no,no,no,yes,no,yes,yes,no,"low birth weight, premature (36wks)",yes,none,
+yes,3190,39w6d,,alive,alive,no,yes,no,yes,no,no,no,no,"vaginal tag, ABO incompatibility, Coombs positive",not listed/lost,not listed/lost,
+yes,2245,26w1d,,deceased,deceased,no,yes,no,no,yes,yes,yes,yes,"maternal HIV, RDS, slow feeding, premature (34wks), pulmonary hemorrhage, maternal hypertension and drug addiction, sepsis, gastrointestinal bleeding, DIC, +cocaine, cardiopulmonary arrest",not listed/lost,not listed/lost,
+yes,1355,34w3d,,alive,alive,no,no,no,no,no,no,no,no,"SGA, premature (34wks), maternal hypertensive disorder, slow feeding",none,none,
+yes,2930,unknown,,alive,alive,no,no,no,no,no,no,no,no,"TTN, undescended testis, chordee, maternal drug addiction",none,none,
+yes,3095,38w6d,,alive,alive,no,yes,no,no,no,no,no,no,"murmur/Klinefelter, abnormal chromosomal/genetic finding, jittery",not listed/lost,not listed/lost,
+yes,2855,38w0d,,alive,alive,no,no,no,no,no,no,no,no,murmur,not listed/lost,not listed/lost,
+yes,1320,30w0d,,alive,alive,no,yes,no,yes,yes,yes,no,yes,"ROP, anemia of premeaturity, vitamin D deficiency, premeature",,,
+yes,2740,40w0d,,alive,,no,no,no,yes,yes,no,no,no,"maternal drug addiction, +cannabis and amphe",,,
+yes,3265,39w6d,9.0,,,no,no,no,yes,no,no,no,no,murmur,not listed/lost,not listed/lost,
+yes,3575,39w4d,9.0,alive,alive,no,no,no,no,no,no,no,no,caput succeedaneum,none,none,
+yes,4500,40w3d,9.0,alive,alive,no,no,no,no,no,yes,yes,no,"LGA, IDM, maternal infectious/parasitic disease, meconium aspiration pneumonia, slow feeding, PFO, ASD",none,yes,
+yes,3165,37w1d,9.0,alive,alive,no,no,no,yes,no,no,no,no,,yes,yes,
+yes,3385,38.714285714285715,,,,no,no,no,no,no,no,no,no,excessive weight loss,not listed/lost,not listed/lost,
+yes,2860,38.142857142857146,9.0,alive,,no,yes,no,no,no,no,no,no,,not listed/lost,not listed/lost,
+yes,1900,30.142857142857142,,alive,alive,no,yes,no,yes,no,yes,no,no,"NEC, sepsis, LBW",not listed/lost,not listed/lost,
+yes,2700,40,8.0,alive,alive,no,no,no,yes,no,yes,yes,no,"PFO, sepsis, slow feeding, cardiomegaly",not listed/lost,not listed/lost,
+yes,2630,38.714285714285715,,alive,alive,no,no,no,no,no,no,no,no,SGA,none,none,
+yes,3380,38.714285714285715,,alive,alive,no,yes,no,yes,no,no,no,no,,none,none,
+yes,4230,39.857142857142854,,,,no,no,no,yes,no,no,no,no,LGA,not listed/lost,not listed/lost,
+yes,3708,38.142857142857146,9.0,,,no,no,no,no,no,no,no,no,,not listed/lost,not listed/lost,
+yes,3270,38.714285714285715,,,,no,yes,no,no,no,no,no,no,,not listed/lost,not listed/lost,
+yes,1740,31.857142857142858,,,,no,no,no,no,no,no,no,no,VLBW  ,not listed/lost,not listed/lost,
+yes,3405,39.714285714285715,,,,no,no,no,no,no,no,no,no,,not listed/lost,not listed/lost,
+yes,2345,38,8.0,alive,alive,no,yes,no,yes,no,no,no,no,"vit D deficiency, syphilis, retinopathy, VLBW",not listed/lost,not listed/lost,
+yes,1640,25,,,,no,yes,no,yes,no,yes,no,,"LGA, retinopathy, anemia, GERD, Coombs",not listed/lost,not listed/lost,
+yes,3485,39,,alive,,no,yes,no,no,no,no,no,no,"Coombs, GBS, hearing test",not listed/lost,not listed/lost,
+yes,3500,39,,alive,,no,yes,no,no,no,no,no,no,"murmur, abnormal EKG",not listed/lost,not listed/lost,
+yes,2560,36,9.0,alive,,yes,yes,no,yes,no,yes,no,no,"sepsis, bacteremia",not listed/lost,not listed/lost,
+yes,3060,39,10.0,,,no,yes,no,no,no,no,no,no,,not listed/lost,not listed/lost,
+yes,2260,37,,,,no,yes,no,yes,no,no,no,no,"SGA, materal marijuana use",not listed/lost,not listed/lost,
+yes,2280,39,6.0,alive,alive,no,no,no,yes,no,no,no,no,,not listed/lost,not listed/lost,
+yes,2800,38,9.0,,,no,yes,no,yes,no,no,no,no,postaxial polydactyly,not listed/lost,not listed/lost,
+yes,3290,40,,alive,,no,no,no,yes,no,yes,no,no,"fluid aspiration, hemoglobin Barts",not listed/lost,not listed/lost,
+yes,2365,37,9.0,alive,,yes,yes,no,yes,no,no,no,no,"Coombs, hearing test, SGA, murmur",not listed/lost,not listed/lost,
+yes,3545,38,,alive,,no,yes,no,no,no,no,no,no,jaundice,not listed/lost,not listed/lost,
+yes,2660,38,,,,no,no,no,no,no,no,no,no,prolonged ROM,not listed/lost,not listed/lost,
+no,3315,39.142857142857146,9.0,alive,,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3941,40.57142857142857,9.0,alive,,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3875,41,9.0,alive,alive,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3725,39.142857142857146,9.0,,,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3375,38.857142857142854,9.0,alive,alive,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3570,39.857142857142854,9.0,alive,,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,2285,36.857142857142854,9.0,alive,alive,no,no,no,no,no,no,no,,Neonatal Abstinence Syndrome,yes,none,no
+no,3250,37.42857142857143,8.0,alive,alive,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3485,41.142857142857146,9.0,alive,,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,2722,37.285714285714285,9.0,alive,alive,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3260,38.714285714285715,9.0,,,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,2845,37.714285714285715,9.0,alive,alive,no,no,no,no,no,no,no,,0,none,none,no
+no,2910,38.857142857142854,9.0,alive,alive,no,no,no,no,no,no,no,,Microcephaly,not listed/lost,not listed/lost,no
+no,3420,39.57142857142857,9.0,alive,alive,no,no,no,no,no,no,no,,0,none,none,no
+no,3880,39.142857142857146,8.0,,,no,no,no,no,no,yes,no,,0,not listed/lost,not listed/lost,yes
+no,3565,39.857142857142854,9.0,alive,alive,no,no,no,no,no,no,no,,"Caput succedaneum, chlamydia",not listed/lost,not listed/lost,no
+no,3545,40,10.0,alive,alive,no,no,no,no,no,no,no,,Positive Coombs,not listed/lost,not listed/lost,no
+no,3460,40.142857142857146,9.0,alive,alive,no,no,no,no,no,no,no,,ABO Incompatibility,none,none,no
+no,2840,39.57142857142857,8.0,alive,alive,no,no,no,no,no,yes,no,,Microcephaly,none,none,no
+no,3670,39.285714285714285,9.0,alive,alive,no,no,no,no,no,yes,no,,Polyhydraminos,none,none,no
+no,3630,40,9.0,alive,alive,no,no,no,no,no,yes,no,,"Caput succedaneum, TTN",not listed/lost,not listed/lost,yes
+no,3675,38.42857142857143,9.0,alive,alive,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,2980,40.285714285714285,9.0,alive,alive,no,no,no,no,no,no,no,,"caput succedaneum, coombs positive, microcephaly",none,none,no
+no,3230,39.42857142857143,9.0,alive,alive,no,no,no,no,no,no,no,,"Hydrocele, ankyloglossia",none,none,no
+no,3365,40w3d,9.0,alive,alive,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3180,39w2d,9.0,alive,alive,no,no,no,no,no,no,no,,microcephaly,not listed/lost,not listed/lost,no
+no,2285,37w2d,9.0,alive,alive,no,no,no,no,no,no,no,,"SGA, ABO Incompatibility, +opiates, ankyloglossia",not listed/lost,not listed/lost,no
+no,3210,39w5d,9.0,alive,alive,no,no,no,no,no,no,no,,Maternal GBS,none,none,no
+no,3200,38w2d,9.0,alive,alive,no,no,no,no,no,no,no,,"Murmur, vaginal tag",not listed/lost,not listed/lost,no
+no,3795,42w5d,9.0,alive,alive,no,no,no,no,no,no,no,,"Murmur, positional torticollis",none,none,no
+no,4160,40w1d,9.0,alive,alive,no,no,no,no,no,no,no,,"LGA, ventricular hypertrophy, cephalohematoma",none,none,no
+no,3910,40w4d,9.0,alive,alive,no,no,no,no,no,no,no,,"Anti E and anti C antibody, dry skin, hyperbilirubinemia",yes,none,no
+no,2640,41w2d,9.0,alive,alive,no,no,no,no,no,no,no,,"SGA, +opiates",none,none,no
+no,3480,-55w0d,9.0,alive,alive,no,no,no,no,no,no,no,,"ankyloglossia, teen pregnancy",none,none,no
+no,3765,39w5d,9.0,alive,alive,no,no,no,no,no,no,no,,"hyperbilirubinemia, left eye yellow discharge",none,none,no
+no,3170,39w5d,8.0,alive,alive,no,no,no,no,no,no,no,,"heart murmur, RVH",none,none,no
+no,3660,38w5d,9.0,alive,alive,no,no,no,no,no,yes,no,,"meconium, chlamydia, teen pregnancy, hyperbilirubinemia",none,none,no
+no,3290,39w5d,9.0,alive,alive,no,no,no,no,no,no,no,,murmur ,none,none,no
+no,2935,39w4d,8.0,alive,alive,no,no,no,no,no,yes,no,,GBS,not listed/lost,not listed/lost,no
+no,2800,37w1d,9.0,alive,,no,no,no,no,no,no,no,,0,not listed/lost,not listed/lost,no
+no,3540,39w3d,9.0,alive,alive,no,no,no,no,no,no,no,,murmur,not listed/lost,none,no
+no,3210,39w1d,9.0,,,no,no,no,no,no,no,no,,"failed hearing screening, hyperbilirubinemia",not listed/lost,not listed/lost,no
+no,3265,37w4d,9.0,,,no,no,no,no,no,no,no,,"maternal hypertensive disorder, engorged breasts in infant, cardiac murmur",not listed/lost,not listed/lost,no
+no,2675,33w6d,9.0,alive,,no,no,no,no,no,yes,no,,preterm (33 wks),not listed/lost,not listed/lost,no
+no,2285,37w1d,9.0,alive,alive,no,no,no,no,no,no,no,,"SGA, murmur, abnormal EKG",none,none,no
+no,2705,37w4d,9.0,alive,alive,no,no,no,no,no,no,no,,"SGA, failed hearing screening, maternal hypertensive disorder, suspected GBS infection",not listed/lost,not listed/lost,no
+no,2980,38w3d,9.0,alive,alive,no,no,no,no,no,no,no,,0,none,none,no
+no,2600,40w1d,9.0,,,no,no,no,no,no,no,no,,"SGA, maternal thrombocytopenia and preeclampsia",not listed/lost,not listed/lost,no
+no,3050,37,7.0,alive,alive,no,no,no,no,no,yes,yes,,"XYY, arrhythmia, ptosis, sepsis, pelvic kidney, meconium",none,none,no
+no,2550,34,9.0,alive,alive,no,yes,no,no,no,no,no,,feeding immaturity,none,none,no
+no,2730,40,9.0,alive,alive,no,no,no,no,no,no,no,,"VSD, murmur, laryngomalacia, syphilis, ABO, anemia",none,none,no
+no,3345,40,9.0,alive,alive,no,no,no,no,no,no,no,,murmur,none,none,no
+no,3760,41,9.0,alive,,no,no,no,no,no,no,no,,"murmur, meconium",not listed/lost,not listed/lost,no
+no,3105,38.42857142857143,9.0,alive,,no,no,no,no,no,no,no,,chorioamnionitis,not listed/lost,not listed/lost,no
+no,2605,38.714285714285715,9.0,alive,alive,no,no,no,no,no,no,no,,"SGA, meconium, microcephaly, ABO",none,none,no
+no,3285,37.57142857142857,9.0,alive,alive,no,no,no,no,no,no,no,,hearing,none,none,no
+no,3033,38.57142857142857,9.0,alive,alive,no,no,no,no,no,no,no,,"Rh, GERD, FTT, murmur",yes,yes,no
+no,3735,40.285714285714285,9.0,alive,alive,no,no,no,no,no,no,no,,ABO,not listed/lost,not listed/lost,no
+no,3525,41.142857142857146,9.0,,,no,no,no,no,no,no,no,,,not listed/lost,not listed/lost,no
+no,3450,41,8.0,alive,,no,no,no,no,no,no,no,,,not listed/lost,not listed/lost,no
+no,3930,40.714285714285715,9.0,alive,,no,no,no,no,no,no,no,,"cephalohematoma, hydrocele, hyperbilirubinemia, meconium",not listed/lost,not listed/lost,no
+no,1960,32.42857142857143,9.0,,,no,no,no,no,no,no,no,,,not listed/lost,not listed/lost,no
+no,2865,40.142857142857146,9.0,,,no,no,no,no,no,no,no,,,not listed/lost,not listed/lost,no
+no,3550,38.142857142857146,9.0,alive,,no,no,no,no,no,no,no,,,not listed/lost,not listed/lost,no
+no,3105,40.285714285714285,9.0,alive,alive,no,no,no,no,no,no,no,,"dilated bowel loops, murmur",none,none,no
+no,4280,40.714285714285715,3.0,alive,alive,no,no,yes,yes,no,yes,no,,"ASD, murmur, shoulder dystocia, LGA, poor muscle tone, seizure, HIE",yes,yes,yes
+no,4120,39.42857142857143,9.0,alive,alive,no,no,no,no,no,no,no,,"ABO, murmur, choroid plexus cyst, ankyloglossia",not listed/lost,not listed/lost,no
+no,2665,39,9.0,alive,alive,no,no,no,no,no,no,no,,"ABO, SGA, meconium",not listed/lost,not listed/lost,no
+no,3020,39,9.0,alive,,no,no,no,no,no,no,no,,"microcephaly,  Caput succedaneum",not listed/lost,not listed/lost,no
+no,3580,39.142857142857146,9.0,alive,alive,no,no,no,no,no,no,no,,murmur,not listed/lost,not listed/lost,no
+no,4595,40.857142857142854,9.0,,,no,no,no,no,no,no,no,,LGA  ,not listed/lost,not listed/lost,no
+no,2985,39.285714285714285,9.0,alive,alive,no,no,no,no,no,yes,no,,"ABO, murmur, RSV, thrombocytopenia",not listed/lost,not listed/lost,no
